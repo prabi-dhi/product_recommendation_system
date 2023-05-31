@@ -1,7 +1,7 @@
 
 # Product-recommendation-system
 
-this project recommended the product using collabritive filtering with knn algorithm.
+this project recommended the product using collabritive filtering
 
 ## Installation
 you must have to install
