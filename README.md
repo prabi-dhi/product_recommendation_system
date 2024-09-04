@@ -1,10 +1,10 @@
 
 # Product-recommendation-system
 
-this project recommends the product using collabritive filtering
+This project recommends the product using collabrative filtering
 
 ## Installation
-you must have to install
+installion required:
 
 ```bash
   numpy
